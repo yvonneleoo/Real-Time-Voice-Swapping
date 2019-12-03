@@ -6,7 +6,7 @@ This repository is an one-step-further application of the [Real-Time Voice Cloni
 
 [Colab interactive demo](https://colab.research.google.com/drive/1Jyq8xO-Rp1e11dWraOgaf4jUHxTLNjok#scrollTo=cr2LaxyXborM)
 
-Please see below for more information about the [Voice Cloning](https://matheo.uliege.be/handle/2268.2/6801) implementation performed by Corentin Jemine.
+Please see below for more information about the [Voice Cloning](https://matheo.uliege.be/handle/2268.2/6801) implementation performed by [Corentin Jemine](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
 
 # Real-Time Voice Cloning
 This repository is an implementation of [Transfer Learning from Speaker Verification to
