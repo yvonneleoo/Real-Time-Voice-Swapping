@@ -1,3 +1,13 @@
+# Real-Time Voice Swapping
+
+We expanded an existing neural network based text-to-speech synthesis model by adding a separate voice-to-text model, which allows us to swap the  voice  and  words  of  two  different  speakers with promising results.  
+
+This repository is an one-step-further application of the [Real-Time Voice Cloning Model](https://github.com/CorentinJ/Real-Time-Voice-Cloning.git), adding the calls to the Google Speech Recognition API.
+
+[Colab interactive demo](https://colab.research.google.com/drive/1Jyq8xO-Rp1e11dWraOgaf4jUHxTLNjok#scrollTo=cr2LaxyXborM)
+
+Please see below for more information about the [Voice Cloning](https://matheo.uliege.be/handle/2268.2/6801) implementation performed by Corentin Jemine.
+
 # Real-Time Voice Cloning
 This repository is an implementation of [Transfer Learning from Speaker Verification to
 Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558.pdf) (SV2TTS) with a vocoder that works in real-time. Feel free to check [my thesis](https://matheo.uliege.be/handle/2268.2/6801) if you're curious or if you're looking for info I haven't documented yet (don't hesitate to make an issue for that too). Mostly I would recommend giving a quick look to the figures beyond the introduction.
