@@ -4,7 +4,7 @@ We expanded an existing neural network based text-to-speech synthesis model by a
 
 This repository is an one-step-further application of the [Real-Time Voice Cloning Model](https://github.com/CorentinJ/Real-Time-Voice-Cloning.git), adding the calls to the Google Speech Recognition API.
 
-[Colab interactive demo](https://colab.research.google.com/drive/1Jyq8xO-Rp1e11dWraOgaf4jUHxTLNjok#scrollTo=cr2LaxyXborM)
+[Colab interactive demo](https://colab.research.google.com/github/yvonneleoo/Real-Time-Voice-Swapping/blob/master/voice_swapping_demo.ipynb)
 
 Please see below for more information about the [Voice Cloning](https://matheo.uliege.be/handle/2268.2/6801) implementation performed by [Corentin Jemine](https://github.com/CorentinJ/Real-Time-Voice-Cloning).
 
